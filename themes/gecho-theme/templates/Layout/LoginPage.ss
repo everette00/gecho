@@ -1,0 +1,3 @@
+<div>
+	$LoginForm
+</div>

@@ -1,0 +1,1 @@
+<div>You've completed registration!</div>
